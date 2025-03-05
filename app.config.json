@@ -1,0 +1,10 @@
+{
+  "environmentUrl": "https://fob48074.apps.dynatrace.com/",
+  "app": {
+    "name": "oauth2.0testing",
+    "version": "0.0.0",
+    "description": "A starting project with routing, fetching data, and charting",
+    "id": "my.oauth.2.0.testing",
+    "scopes": [{ "name": "storage:logs:read", "comment": "default template" }, { "name": "storage:buckets:read", "comment": "default template" }]
+  }
+}
